@@ -1,2 +1,2 @@
 # music-production-lab
-My new journey of my music
+New journey of my music
