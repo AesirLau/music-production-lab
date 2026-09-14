@@ -1,0 +1,36 @@
+{
+  "current_focus": "Tier 1: 调内七和弦与键盘骨架",
+  "last_session": "2026-09-14",
+  "modules": {
+    "tier_1_diatonic_7th": {
+      "name": "自然七和弦与音程骨架",
+      "status": "in_progress",
+      "mastery_level": 0
+    },
+    "tier_1_shell_voicings": {
+      "name": "键盘 3-7 音 Shell Voicings",
+      "status": "not_started",
+      "mastery_level": 0
+    },
+    "tier_2_secondary_dominants": {
+      "name": "副属和弦与离调推进",
+      "status": "not_started",
+      "mastery_level": 0
+    },
+    "tier_2_tritone_sub": {
+      "name": "三全音替代 (bII7)",
+      "status": "not_started",
+      "mastery_level": 0
+    },
+    "tier_3_tensions_9_11_13": {
+      "name": "张力音扩展 (Color Tensions)",
+      "status": "not_started",
+      "mastery_level": 0
+    },
+    "tier_4_groove_bassline": {
+      "name": "R&B/Funk 律动与低音声部设计",
+      "status": "not_started",
+      "mastery_level": 0
+    }
+  }
+}
